@@ -125,7 +125,7 @@ Everything works in demo mode:
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CreatiAI.git
+git clone https://github.com/Sendiw14/CreatiAI.git
 cd CreatiAI
 
 cd frontend && npm install
